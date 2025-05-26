@@ -17,3 +17,5 @@ Easy to customize for different product categories
 🧰 Built With
 HTML5
 CSS3
+
+Live Demo: https://sumthing.me/Modern-Chair-Showcase-/
